@@ -1554,7 +1554,7 @@ const List<Map<String, dynamic>> localCountriesData = [
     "decimal_digits": 0,
     "number": 704,
     "name_plural": "Vietnamese dong",
-    "thousands_separator": ".",
+    "thousands_separator": ",",
     "decimal_separator": ".",
     "space_between_amount_and_symbol": true,
     "symbol_on_left": false,
